@@ -1,16 +1,38 @@
-## Hi there 👋
+# Adam Ahmed
+Front-End Web Developer | Egyptian
 
-<!--
-**AdamAhmed-eg/AdamAhmed-eg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Email:** adamloon55@gmail.com
+📞 **Phone:** 01006205138 / 01157681282 / 01289409389
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective
+Motivated Front-End Web Developer with strong skills in building responsive and user-friendly websites using **HTML, CSS, and JavaScript**. Passionate about UI/UX, and eager to grow in a professional development team.
+
+---
+
+## Skills
+- **Languages & Tools:** HTML, CSS, JavaScript
+- Responsive Web Design (Mobile-first approach)
+- UI Development & Web Deployment
+
+---
+
+## Projects
+### Pharmacy Website
+- Designed and deployed a fully responsive website.
+- Technologies: HTML, CSS, JavaScript
+- **Live Demo:** [Pharmacy Website](https://ddoma20.github.io/pharmancy.github.io/)
+
+---
+
+## Education
+**Eva International Applied Technology School**
+Second Year Student
+
+---
+
+## Contact
+- 📧 Email: adamloon55@gmail.com
+- 📞 Phone: 01006205138 / 01157681282 / 01289409389*
+- 📞 **01006205138 / 01157681282 / 01289409389**
